@@ -15,3 +15,4 @@ passwd udows
 chmod 777 /home/ftproot
 systemctl restart vsftpd
 systemctl enable vsftpd
+systemctl enable vsftpd
